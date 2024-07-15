@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m a Front End Engineering student at Altschool
-- 🌱 I’m currently learning Front Javascript
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Front End Web solutions.
 - ⚡ Fun fact: I love baking!
 
