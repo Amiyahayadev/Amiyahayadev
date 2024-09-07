@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Front End Web solutions.
 - ⚡ Fun fact: I love nature and baking!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L71305P5)
 
